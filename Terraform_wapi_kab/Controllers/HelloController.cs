@@ -10,7 +10,7 @@ namespace Terraform_wapi_kab.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return "Hello terraform";
+            return "Hello terraform again";
         }
     }
 }
